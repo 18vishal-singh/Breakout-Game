@@ -16,6 +16,7 @@ IF YOU HAVA ECLIPSE INSTALLED ON YOUR COMPUTER THEN OPEN IT WITH ECLIPSE AND RUN
 IF YOU DONT HAVA ECLIPSE INSTALLED :
 
 1>OPEN CMD(COMMAND PROMT) GO TO THAT FOLDER LOCATION WHERE GAME FILE PRESENT (by 'cd' command).
+
 2>TYPE :-
 		G:\breakout game>javac *.java				(or javac Start.java)
 		G:\breakout game>appletviewer Start.java
